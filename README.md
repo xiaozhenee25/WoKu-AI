@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./docs/images/icon.svg" alt="预览"/>
+<img src="https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/images/icon.svg" alt="预览"/>
 
 <h1 align="center">WoKo AI</h1>
 
